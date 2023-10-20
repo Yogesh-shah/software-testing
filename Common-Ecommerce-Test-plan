@@ -8,3 +8,36 @@ SCOPE : It defines the what in in-scope and what is out of scope for testing.
 
 => Out of Scope : defines the features, functional or non-functional requirements of the software that will NOT be tested.
 - Not Test : product listing, product detail
+
+=> Test Methodology: Define which methodology we use.
+Waterfall
+Agile
+
+=> Level of Testing: Define which level of testing use for testing.
+Unit Testing
+Integration Testing
+Sysem Testing
+Acceptance Testing
+
+=> Test technique:
+Whitebox
+Blackbox
+Greybox
+
+=> Test Deliverables:
+Here mention all the Test Artifacts that will be delivered during different phases of the testing lifecycle.
+
+- Test plan
+- Test Cases
+- Bug reports
+- Requirement tracebility matrix
+
+=> Test Environment
+Requirement of software to test on system.
+- which OS we use
+- which device we use
+- What are the brosers we use.
+
+=> Risk management:
+List out potential risk and challenges that may arise during testing process. 
+
