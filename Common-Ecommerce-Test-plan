@@ -4,10 +4,10 @@ The test plan is used to ensure that the website meets all the requirements func
 SCOPE : It defines the what in in-scope and what is out of scope for testing.
 
 => In Scope : Scope defines the features, functional or non-functional requirements of the software that will be tested.
-- Test : add to cart, checkout, payment, user my account.
+- ex: Test : add to cart, checkout, payment, user my account.
 
 => Out of Scope : defines the features, functional or non-functional requirements of the software that will NOT be tested.
-- Not Test : product listing, product detail
+- ex: Not Test : product listing, product detail
 
 => Test Methodology: Define which methodology we use.
 Waterfall
