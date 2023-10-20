@@ -41,6 +41,6 @@ Requirement of software to test on system.
 => Risk management:
 List out potential risk and challenges that may arise during testing process. 
 
-=> List of testing persons and with its detail:
+=> List of testing persons with its detail:
 Testname1 : Frontend
 Testname2 : Backend
